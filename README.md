@@ -20,13 +20,13 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](/screenshot_large.jpg)
-![](/screenshot_mobile.jpg)
+![](./screenshot_large.png)
+![](./screenshot_mobile.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/kevincanderson/FMLP001_qr-code-component-main)
-- Live Site URL: [Add live site URL here](https://kevincanderson.github.io/FMLP001_qr-code-component-main/)
+- Solution URL: [https://github.com/kevincanderson/FMLP001_qr-code-component-main](https://github.com/kevincanderson/FMLP001_qr-code-component-main)
+- Live Site URL: [https://kevincanderson.github.io/FMLP001_qr-code-component-main/](https://kevincanderson.github.io/FMLP001_qr-code-component-main/)
 
 ## My process
 
